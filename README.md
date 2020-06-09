@@ -19,6 +19,13 @@ update the .env with your credentials...
  SLACK_AUTH_TOKEN="your-slack-auth-token"   
 ```
 
+To start server navigate to the project directory and run
+
+```sh
+$ node index.js
+
+```
+
 ### Development
 
 Verify the deployment by navigating to your server address in your preferred browser.
